@@ -54,6 +54,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="logo css" />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="logo angularjs" />
+  <img width="14" />
+  <img src="https://www.rabbitmq.com/img/rabbitmq-logo.svg" height="40" alt="logo rabbitmq" />
 </div>
+
+
+---
+
+
+
+
 
 
