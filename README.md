@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" />
-</div>
+
 
 ###
 
